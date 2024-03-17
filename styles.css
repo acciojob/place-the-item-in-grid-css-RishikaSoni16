@@ -1,2 +1,17 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:grid;
+	grid-template-columns:repeat(2,50px);
+	grid-template-rows:repeat(2,50px);
+}
+.item-1{
+	border:2px solid black;
+}
+.item-2{
+	border:2px solid black;
+}
+.item-3{
+	border:2px solid black;
+}
+.item-4{
+	border:2px solid black;
+}
